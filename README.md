@@ -15,25 +15,21 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 <details>
   
 <summary>:bulb:</summary>
+  
+#### Descrição
+A imagem de uma rua é disponibilizada e temos que descobrir a cidade na qual ela se encontra.
 
-1. Autentique e acesse a área do usuário.
-2. É possível identificar o uso do seguinte endpoint:
-> GET /accountDetails
-3. Este endpoint retorna a API Key do usuário autenticado:
-```
- {
-   "username": "wiener",
-   "email": "",
-   "apikey": "BDKD9r0wSagpq7fIN6DlyMkmVd8BPVWs",
-   "sessions": [
-     "VB2znrX8xyrGsfeFTCb7Dv1VBkL5DTuQ"
-   ]
- }
-```  
-3. Programe um código JavaScript para realizar uma requisição GET para o endpoint identificado e obter a API Key.
-4. Este código também deve enviar a API Key para o servidor de exploit.
-5. O código deve ser armazenado no servidor de exploit e entregue para a vítima.
-6. Após o último passo, a API Key deve aparecer no log do servidor de exploit:
->  GET /?apikey=V8YQnKjWB8oGz0YD6tjO4r8V8itPe6Jc
+#### Solução
+1. Visualizando a imagem é possível identificar duas palavras:
+> SOCCABET
+> Zongo La
+2. Fazendo uma busca por estes dois termos juntos, o Google nos trará o nome de uma via próxima ao local da foto::
+> Zongo Lane
+3. Buscando por Zongo Lane no Google Maps, é possível identificar que esta via é localizada em uma cidade na Gana:
+> Accra
+4. Buscando novamente no Google Maps pelo termo abaixo, é possível confirmar que uma unidade da SOCCABET se encontra próxima a via Zongo Lane, em Accra no Congo:
+> Zongo Lane SOCCABET
+5. A FLAG é enviada como:
+> Accra
 </details>
 
