@@ -1,16 +1,16 @@
 # Desafios OSINT Games CTF 202202
 <p style="text-align:center" align="center">
-<img src="https://user-images.githubusercontent.com/17954762/47567241-4b4f2080-d92e-11e8-830c-b5db21beab69.png" width="10%" /><br>
+<img src="https://import.cdn.thinkific.com/568124/courses/1609487/fj6dhvJEQQKmnVw7vDto_osint-games-logo-words-149x48.png" width="20%" /><br>
 <p align="center">[EM CONSTRUÇÃO]:hammer:</center></p>
 </p>
-Descrição e solução de LABs da Burp Academy.
+Descrição e solução dos desafios do OSINT Games CTF 202202.
 
 # Sumário
 - [Blue Truck Image Location](#Blue-Truck-Image-Location)
 
 
-## Blue Truck Image Location <a name="Blue-Truck-Image-Location"></a>
-##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-orange)](#sumário)
+## Blue Truck Image Location <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
 
 <details>
   
