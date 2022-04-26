@@ -353,5 +353,20 @@ Descubra o e-mail de Adorian.
 1. Acessando o site de Adorian (adoriandeck.com) no WayBack Machine em 2012, é possível visualizar o seu e-mail
 > adoriandeck@gmail.com
 </details>
+  
+##  Shop Local <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o site de e-commerce da Shopify que Adorian possui, onde o nome tem o nome de seu cachorro.
+
+#### Solução
+1. Acessando o linktr.ee é possível visualizar o link para o e-commerce que possui o nome:
+> tinycrumble.com
+</details>
 
 </details>
