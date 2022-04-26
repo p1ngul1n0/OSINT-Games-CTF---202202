@@ -10,6 +10,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 - [The Walking Dead](#dead)
 - [House of Murals](#murals)
 - [All Decked Out](#decked)
+- [Guitar Riffs](#guitar)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
 <details>
@@ -511,4 +512,26 @@ Qual empresa que Adorian processou em 2011.
 > Spartz
 </details>
   
+</details>
+
+
+## Guitar Riffs <a name="guitar"></a> ![](https://img.shields.io/badge/12%2F12-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+## John Legend <a name="decked">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o sobrenome do músico chamado John mencionado no site da imagem.
+
+#### Solução
+1. Buscando por termos que aparecem na imagem é possível achar o site:
+> "ABOUT JOHN" "Mel Holder"
+2. No site é possível visualizar que o sobrenome é:
+> Smith
 </details>
