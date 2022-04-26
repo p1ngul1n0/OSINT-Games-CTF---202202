@@ -155,7 +155,39 @@ Descubra o motivo por qual Hoek pede doações.
 1. Buscando pelo usuário alternativo do Hoek seguido da palavra Donation, é possível identificar o site ko-fi:
 > "hoeczek" donation
 2. No site, o perfil de hoek expõem o motivo das doações:
->  Funding Goals 
+>  House for a zombie apocalypse
+</details>  
+  
+  ##    Perfect Games    <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra qual jogo Hoek descreve como "perfeito".
+
+#### Solução
+1. Acessando o perfil da Steam de Hoek, disponibilizado na Home de seu site é possível visualizar a seção "Perfect Games, no qual um jogo é listado:
+> CARRION
+</details>
+  
+    ##     Site Owner's Name     <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o primeiro nome de hoeczek.
+
+#### Solução
+1. Acessando a home do site de hoeczek, ele se introduz com a frase:
+> Hi, I am Hoek.
+2. Expondo seu primeiro nome:
+> Hoek
 </details>
 
 </details>
