@@ -84,4 +84,21 @@ Identificar o nome completo da Zongo Lane.
 > Kadiri
 </details>
 
+##   Longest Recording  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Identificar o trajeto mais longo registrado por mawutor no Mappilary.
+
+#### Solução
+  1. Utilizando o filtro de trajetos do usuário mawutor, é possível visualizar claramente um trajeto cruzando de norte a sul o Congo.
+  2. A cidade de ínicio deste trajeto é identificada como:
+> Bawku
+</details>
+
+
 
