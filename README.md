@@ -141,7 +141,7 @@ Descubra usuários alternativos utilizados pelo usuário Hoek.
 > hoeczek
 </details>
 
-  ##    Funding Goals    <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##    Funding Goals    <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
 ##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
 
 <details>
@@ -158,7 +158,7 @@ Descubra o motivo por qual Hoek pede doações.
 >  House for a zombie apocalypse
 </details>  
   
-  ##    Perfect Games    <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##    Perfect Games    <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
 ##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
 
 <details>
@@ -173,7 +173,7 @@ Descubra qual jogo Hoek descreve como "perfeito".
 > CARRION
 </details>
   
-    ##     Site Owner's Name     <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##     Site Owner's Name     <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
 ##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
 
 <details>
