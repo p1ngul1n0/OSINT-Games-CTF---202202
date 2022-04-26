@@ -368,5 +368,21 @@ Descubra o site de e-commerce da Shopify que Adorian possui, onde o nome tem o n
 1. Acessando o linktr.ee é possível visualizar o link para o e-commerce que possui o nome:
 > tinycrumble.com
 </details>
+  
+##   Vid Bros <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o canal de Youtube que Adorian possui junto com seu irmão.
+
+#### Solução
+1. Buscando pelos vídeos do canal de Adorian, é possível identificar o canal de seu irmão
+2. Acessando o canal de seu irmão (Adrian), o canal que possui junto ao seu irmão está registrado como um canal parceiro:
+> The Deck Brothers
+</details>
 
 </details>
