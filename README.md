@@ -338,5 +338,20 @@ Descubra o site do Influencer adoriandeck que redireciona para seu linktr.ee.
 2. Na Bio de seu Instagram o site que redireciona para seu linktr.ee:
 > adoriandeck.com
 </details>
+  
+## Hot Mail  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o e-mail de Adorian.
+
+#### Solução
+1. Acessando o site de Adorian (adoriandeck.com) no WayBack Machine em 2012, é possível visualizar o seu e-mail
+> adoriandeck@gmail.com
+</details>
 
 </details>
