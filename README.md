@@ -627,5 +627,22 @@ Qual era o usuário de John no MySpace
 1. Acessando o Facebook de John é possível visualizar um link para seu MySpace com o usuário:
 > axxan23
 </details>
+  
+##  5 Stars <a name="decked">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o produto que John avaliou no Sourceforge em 2014-12-03
+
+#### Solução
+1. Realizando uma busca no Google com o seguinte termo:
+> inurl:sourceforge.net/projects  intext:Posted 2014-12-03
+2. É possível obter o produto que John avaliou, no caso:
+> Fx FloorBoard
+</details>
 
 </details>
