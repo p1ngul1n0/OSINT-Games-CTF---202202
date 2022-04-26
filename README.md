@@ -107,7 +107,7 @@ Identificar o trajeto mais longo registrado por mawutor no Mappilary.
 </details>
 
  
-## The Walking Dead <a name="dead"></a> ![](https://img.shields.io/badge/2%2F5-COMPLETED-blue)
+## The Walking Dead <a name="dead"></a> ![](https://img.shields.io/badge/5%2F8-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
