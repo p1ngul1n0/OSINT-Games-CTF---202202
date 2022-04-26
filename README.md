@@ -477,4 +477,37 @@ Qual é a LLC da empresa de Adorian.
 > Decked Out Media
 </details>
   
+## Coast To Coast  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual outro estado dos EUA a Derick Out Media esta registrada além da California.
+
+#### Solução
+1. Buscando pelo nome da empresa de Adorian (Derick Out Media) o site OpenCorporates é encontrado
+2. Acessando este site é possível identificar que a empresa esta localizada na Florida:
+> Florida
+</details>
+  
+##  Sue Me <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual empresa que Adorian processou em 2011.
+
+#### Solução
+1. Buscando pelo termo abaixo no Google é possível encontrar uma notícia que expõe o nome que Adorian Decker processou em 2011:
+> adorian deck lawsuit
+2. O nome da empresa é:
+> Spartz
+</details>
+  
 </details>
