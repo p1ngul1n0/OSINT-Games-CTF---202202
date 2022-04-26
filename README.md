@@ -399,5 +399,20 @@ Descubra o Instagram do irmão de Adorian.
 1. Acessando o canal do Youtube de Adrian, seu Instagram está como rede social:
 > adrianedwarddeck
 </details>
+  
+##  Early Adopter <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o Instagram do irmão de Adorian.
+
+#### Solução
+1. Comparando a data de inscrição de ambos canais de Adorian e Adrian, fica evidente que Adorian se cadastrou antes no Youtube:
+> Adorian
+</details>
 
 </details>
