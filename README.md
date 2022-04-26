@@ -550,5 +550,82 @@ Qual é o site que aparece na imagem.
 1. Como o site já foi descoberto no desafio anterior (John Legend) é apenas uma questão de responder:
 > axxanpro23.com
 </details>
+  
+## Start Date  <a name="decked">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
 
-  </details>
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é a data de criação do canal do Youtube de John
+
+#### Solução
+1. Clicando no botão "WATCH MORE VIDEOS" é possível acessar o canal do Youtube de John e a data de criação é:
+> March 6, 2006
+</details>
+  
+## The Gig  <a name="decked">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o e-mail para contratar John
+
+#### Solução
+1. No Footer do site existe um botão de e-mail:
+> Axxan23@yahoo.com
+</details>
+  
+## It's Me Again   <a name="decked">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o outro site que John possui que redireciona para o site atual
+
+#### Solução
+1. No canal de Youtube de John é possível obter o link para outro site:
+> itsjohnsmith.com
+</details>
+  
+## Take Me To Church  <a name="decked">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Um dos sites de John foi registrado no nome de uma igreja, qual é ela
+
+#### Solução
+1. Fazendo uma consulta no WhoIs pelo domínio abaixo:
+> itsjohnsmith.com
+2. É possível identificar a igreja:
+> Faith Baptist Church
+</details>
+  
+## Throwback <a name="decked">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual era o usuário de John no MySpace
+
+#### Solução
+1. Acessando o Facebook de John é possível visualizar um link para seu MySpace com o usuário:
+> axxan23
+</details>
+
+</details>
