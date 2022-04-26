@@ -238,6 +238,26 @@ Descubra o primeiro nome de Hoek através de um de seus perfis.
 2. No perfil de Hoek na HackerOne, é exibido o primeiro nome:
 > Dawid
 </details>
+  
+## Family Name of Hoek <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o último sobrenome de Hoek.
+
+#### Solução
+1. Acessando o perfil de Hoek no Wordpress, é possível identificar que ele possuía o domínio:
+> superbly.space
+2. Acessando este domínio, é possível visualizar que ele não funciona mais
+3. Utilizando o WayBack Machine, pode se identificar que este estava ativo entre 2016 e 2017
+4. Usando um serviço de WHOIS que verifica o histórico, o nome de Hoek é exposto nos registros:
+> Dawid Job
+
+</details>
 
 </details>
 
