@@ -8,6 +8,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 # Sumário
 - [Zongo](#zongo)
 - [The Walking Dead](#dead)
+- [House of Murals](#murals)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
 <details>
@@ -275,5 +276,31 @@ Identifique qual endereço bitcoin tem relação com Hoek dentre as alternativas
 
 </details>
 
+</details>
+
+## House of Murals <a name="murals"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+## Mural House <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+A imagem de uma casa é disponibilizada e temos que descobrir em qual cidade ela se encontra.
+
+#### Solução
+1. Buscando a imagem em serviços de busca, no caso o Bing é possível identificar diversos sites que apresentam ela
+2. Acessando um destes sites, no caso designer-daily.com, o site do autor da obra, o artista Peeta é citado:
+> http://www.peeta.net/works/walls/
+3. No site do artista, a foto possui a seguinte legenda:
+> Stadt.Wand.Kunst Mural Art Galery, Mannheim, DE, 2019
+4. A cidade da obra é descoberta através da legenda da foto:
+> Mannheim
+</details>
+  
 </details>
 
