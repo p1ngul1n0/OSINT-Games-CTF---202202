@@ -644,5 +644,35 @@ Qual é o produto que John avaliou no Sourceforge em 2014-12-03
 2. É possível obter o produto que John avaliou, no caso:
 > Fx FloorBoard
 </details>
+  
+## Pay The Man <a name="decked">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual usuário John utiliza para doações financeiras
+  
+#### Solução
+1. Visualizando os vídeos existentes no canal de John, é possível visualizar na descrição o usuário utilizado para doações:
+> $Axxanpro23
+</details>
+  
+## Look Back <a name="decked">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual site John registrou utilizando seu e-mail pessoal
+  
+#### Solução
+1. Utilizando um serviço de consulta reversa (www.reversewhois.io), é possível identificar o site:
+> fbccny.org
+</details>
 
 </details>
