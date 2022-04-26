@@ -384,5 +384,20 @@ Descubra o canal de Youtube que Adorian possui junto com seu irmão.
 2. Acessando o canal de seu irmão (Adrian), o canal que possui junto ao seu irmão está registrado como um canal parceiro:
 > The Deck Brothers
 </details>
+  
+## IG me <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o Instagram do irmão de Adorian.
+
+#### Solução
+1. Acessando o canal do Youtube de Adrian, seu Instagram está como rede social:
+> adrianedwarddeck
+</details>
 
 </details>
