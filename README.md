@@ -31,6 +31,8 @@ A imagem de uma rua é disponibilizada e temos que descobrir a cidade na qual el
 > Zongo Lane SOCCABET
 5. A FLAG é enviada como:
 > Accra
+6. Adicionalmente, vasculhando com o Google Street View ao longo das ruas que cruzam com a Zongo Lane, é possível identificar o local como sendo a latitude e longitude, na rua Asafoatse Nettey Rd:
+> 5.541880857145164, -0.20993663838001453
 </details>
 
 ## Blue Truck Image Latitude and Longitude  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
