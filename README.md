@@ -11,6 +11,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 - [House of Murals](#murals)
 - [All Decked Out](#decked)
 - [Guitar Riffs](#guitar)
+- [In the Business](#business)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
 <details>
@@ -675,4 +676,85 @@ Qual site John registrou utilizando seu e-mail pessoal
 > fbccny.org
 </details>
 
+</details>
+
+## In The Business <a name="business"></a> ![](https://img.shields.io/badge/10%2F10-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+##  Big MAC <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o SSID relacionado ao BSSID disponibilizado.
+
+#### Solução
+1. Utilizando Wigle e realizando uma consulta pelo BSSID, o SSID é identificado:
+> Sly and Co
+</details>
+  
+##  Suite Digs <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual o número da suíte que a empresa ocupa.
+
+#### Solução
+1. Acessando o site da empresa (slyandcogroup.com) é possível identificar o número da suíte como:
+> 200
+</details>
+  
+## MX Me <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o prefixo do endereço de e-mail que a empresa utiliza para informações.
+
+#### Solução
+1. Acessando o site da empresa (slyandcogroup.com) é possível identificar o prefixo como:
+> slyandco.com
+</details>
+  
+## Google Knows All <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual das alternativas não compartilha do mesmo Google Tracking ID.
+
+#### Solução
+1. Realizando uma busca pelo site no host.io, é possível verificar mais três domínios que utilizam o mesmo ID, exceto:
+> slyandcompany.com
+</details>
+  
+## Redirect Your Attention  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual site redireciona para slyandco.com e possui o prefixo "ca".
+
+#### Solução
+1. Realizando uma busca pelo site no host.io, é possível verificar que o seguinte domínio redireciona para o site:
+> slyandco.ca
+</details>
+  
 </details>
