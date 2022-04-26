@@ -515,7 +515,7 @@ Qual empresa que Adorian processou em 2011.
 </details>
 
 
-## Guitar Riffs <a name="guitar"></a> ![](https://img.shields.io/badge/12%2F12-COMPLETED-blue)
+## Guitar Riffs <a name="guitar"></a> ![](https://img.shields.io/badge/10%2F10-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
