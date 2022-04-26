@@ -222,6 +222,22 @@ Descubra o número desenhado em uma torta que Hoek postou em um website antigo d
 2. Utilizando o WayBackMachine no ano de 2015, a foto da torta é exposta com o número:
 > 27
 </details>
+  
+## Given Name of Hoek <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o primeiro nome de Hoek através de um de seus perfis.
+
+#### Solução
+1. Acessando a home do site de hoeczek, é possível visualizar suas redes sociais, entre elas a HackerOne:
+2. No perfil de Hoek na HackerOne, é exibido o primeiro nome:
+> Dawid
+</details>
 
 </details>
 
