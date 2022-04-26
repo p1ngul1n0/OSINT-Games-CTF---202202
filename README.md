@@ -106,37 +106,8 @@ Identificar o trajeto mais longo registrado por mawutor no Mappilary.
  
 </details>
 
-## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
-<details>
-  <summary>Visualizar desafios</summary>
-
-## Blue Truck Image Location <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
-##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
-
-<details>
-  
-<summary>:bulb:</summary>
-  
-#### Descrição
-A imagem de uma rua é disponibilizada e temos que descobrir a cidade na qual ela se encontra.
-
-#### Solução
-1. Visualizando a imagem é possível identificar duas palavras:
-> SOCCABET
-> Zongo La
-2. Fazendo uma busca por estes dois termos juntos, o Google nos trará o nome de uma via próxima ao local da foto::
-> Zongo Lane
-3. Buscando por Zongo Lane no Google Maps, é possível identificar que esta via é localizada em uma cidade na Gana:
-> Accra
-4. Buscando novamente no Google Maps pelo termo abaixo, é possível confirmar que uma unidade da SOCCABET se encontra próxima a via Zongo Lane, em Accra no Congo:
-> Zongo Lane SOCCABET
-5. A FLAG é enviada como:
-> Accra
-6. Adicionalmente, vasculhando com o Google Street View ao longo das ruas que cruzam com a Zongo Lane, é possível identificar o local como sendo a latitude e longitude, na rua Asafoatse Nettey Rd:
-> 5.541880857145164, -0.20993663838001453
-
-  
-## The Walking Dead <a name="dead"></a> ![](https://img.shields.io/badge/1%2F5-COMPLETED-blue)
+ 
+## The Walking Dead <a name="dead"></a> ![](https://img.shields.io/badge/2%2F5-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
@@ -153,6 +124,21 @@ Descubra o domínio da surface web existente no site da darkweb.
 #### Solução
 1. Acessando o site e vasculhando pelas páginas, é possível visualizar o endereço na área dos termos de serviço:
 > 0ut3r.space
+</details>
+  
+##   Alternative Usernames   <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra usuários alternativos utilizados pelo usuário Hoek.
+
+#### Solução
+1. Acessando a home do site é possível visualizar diversas redes sociais que Hoek pode ser encontrado, por exemplo no Telegram, onde ele se identifica:
+> hoeczek
 </details>
 
 </details>
