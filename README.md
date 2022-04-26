@@ -278,7 +278,7 @@ Identifique qual endereço bitcoin tem relação com Hoek dentre as alternativas
 
 </details>
 
-## House of Murals <a name="murals"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
+## House of Murals <a name="murals"></a> ![](https://img.shields.io/badge/2%2F2-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
