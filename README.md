@@ -302,5 +302,20 @@ A imagem de uma casa é disponibilizada e temos que descobrir em qual cidade ela
 > Mannheim
 </details>
   
+##  Mural House Painter  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o nome real do artista.
+
+#### Solução
+1. Acesando o site do artista e visualizando o "About", é possível visualizar que o nome real do artista é:
+> Manuel Di Rita
+</details>
+  
 </details>
 
