@@ -44,7 +44,7 @@ A imagem de uma rua é disponibilizada e temos que descobrir a cidade na qual el
 Definir qual é a latitude e longitude que mais se aproximam do local onde a foto foi tirada.
 
 #### Solução
-  1. Como já descoberto na solução do desafio Blue Truck Image Location, a foto foi tirada na junção da rua Prof. Atta Mills High St com a Ga Mashie RD e a latitude e longitude que mais se aproximam desta localização dentre as alternativas é a:
+  1. Como já descoberto na solução do desafio Blue Truck Image Location, a foto foi tirada perto da rua Zongo Lane e a latitude e longitude que mais se aproximam desta localização dentre as alternativas é a:
 > 5.5418955,-0.209885
 </details>
 
