@@ -50,3 +50,21 @@ Definir qual é a latitude e longitude que mais se aproximam do local onde a fot
 > 5.5418955,-0.209885
 </details>
 
+## Mapillary Username   <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Identificar o usuário que realizou upload da foto do desafio no Mapillary.
+
+#### Solução
+  1. Como já descoberta a localização da foto no desafio Blue Truck Image Location, foi acessado este local no Mappilary.
+  2. Ao acessar é possível identificar a foto original, sem cortes.
+  3. Apartir desta foto é possível visualizar os detalhes e o usuário que a postou como:
+> mawutor
+</details>
+
+
