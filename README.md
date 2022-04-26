@@ -9,6 +9,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 - [Zongo](#zongo)
 - [The Walking Dead](#dead)
 - [House of Murals](#murals)
+- [All Decked Out](#decked)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
 <details>
@@ -323,7 +324,7 @@ Descubra o nome real do artista.
 <details>
   <summary>Visualizar desafios</summary>
 
-## Deck The Halls <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+## Deck The Halls <a name="decked">:heavy_check_mark:</a>
 ##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
 
 <details>
