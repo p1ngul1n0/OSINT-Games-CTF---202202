@@ -430,4 +430,20 @@ Descubra o Twitter que os irmãos utilizavam e que agora é banido.
 > thedeckbrothers
 </details>
 
+## Name In Lights  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o nome da jornalista que entrevistou Adorian em 26 de julho de 2014.
+
+#### Solução
+1. Realizando uma busca no Google é possível obter a entrevista de Adorian
+2. Acessando a entrevista o nome da entrevistadora é identificada:
+> TANYSHA BOLGER
+</details>  
+  
 </details>
