@@ -444,6 +444,21 @@ Descubra o nome da jornalista que entrevistou Adorian em 26 de julho de 2014.
 1. Realizando uma busca no Google é possível obter a entrevista de Adorian
 2. Acessando a entrevista o nome da entrevistadora é identificada:
 > TANYSHA BOLGER
-</details>  
+</details>
+  
+##  Dropped Calls  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra a operadora que Adorian utilizava na época da entrevista.
+
+#### Solução
+1. A entrevista contém uma captura de tela do celular de Adorian, que expõe o nome da operadora utilizada:
+> Verizon
+</details> 
   
 </details>
