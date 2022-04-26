@@ -107,7 +107,7 @@ Identificar o trajeto mais longo registrado por mawutor no Mappilary.
 </details>
 
  
-## The Walking Dead <a name="dead"></a> ![](https://img.shields.io/badge/5%2F8-COMPLETED-blue)
+## The Walking Dead <a name="dead"></a> ![](https://img.shields.io/badge/10%2F10-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
@@ -256,6 +256,22 @@ Descubra o último sobrenome de Hoek.
 3. Utilizando o WayBack Machine, pode se identificar que este estava ativo entre 2016 e 2017
 4. Usando um serviço de WHOIS que verifica o histórico, o nome de Hoek é exposto nos registros:
 > Dawid Job
+
+</details>
+  
+## Bitcoin Wallet Address of Hoek <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Identifique qual endereço bitcoin tem relação com Hoek dentre as alternativas.
+
+#### Solução
+1. Vasculhando os endereços existentes nas alternativas através do site https://www.blockchain.com, é possível visualizar que somente um existe:
+>  15yT5Yv7wPaovoFWVwLvPXr2PWW8nuczht 
 
 </details>
 
