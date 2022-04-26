@@ -459,6 +459,22 @@ Descubra a operadora que Adorian utilizava na época da entrevista.
 #### Solução
 1. A entrevista contém uma captura de tela do celular de Adorian, que expõe o nome da operadora utilizada:
 > Verizon
-</details> 
+</details>
+  
+##  Entrepreneurial Spirit <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é a LLC da empresa de Adorian.
+
+#### Solução
+1. Buscando pelo nome da empresa de Adorian (Derick Media) seguida pela sigla LLC no Google, o site DNB é encontrado
+2. Acessando este site é possível identificar a LLC da empresa:
+> Decked Out Media
+</details>
   
 </details>
