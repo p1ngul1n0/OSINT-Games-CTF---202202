@@ -141,5 +141,22 @@ Descubra usuários alternativos utilizados pelo usuário Hoek.
 > hoeczek
 </details>
 
+  ##    Funding Goals    <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o motivo por qual Hoek pede doações.
+
+#### Solução
+1. Buscando pelo usuário alternativo do Hoek seguido da palavra Donation, é possível identificar o site ko-fi:
+> "hoeczek" donation
+2. No site, o perfil de hoek expõem o motivo das doações:
+>  Funding Goals 
+</details>
+
 </details>
 
