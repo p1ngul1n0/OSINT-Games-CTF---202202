@@ -204,6 +204,24 @@ Descubra o país de origem de Hoek.
 1. Acessando a home do site de hoeczek, é possível obter o perfil do Hack The Box, onde ele é identificado como da Polônia
 > Poland
 </details>  
+  
+  
+## Projects of Hoek <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o número desenhado em uma torta que Hoek postou em um website antigo dele.
+
+#### Solução
+1. Acessando a home do site de hoeczek, é possível visualizar os projetos passados dele, como estamos em busca de uma torta, o projeto de culinária se destaca:
+> nattyskitchen
+2. Utilizando o WayBackMachine no ano de 2015, a foto da torta é exposta com o número:
+> 27
+</details>
 
 </details>
 
