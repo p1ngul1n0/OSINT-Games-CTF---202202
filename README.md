@@ -319,7 +319,7 @@ Descubra o nome real do artista.
   
 </details>
 
-## All Decked Out <a name="murals"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
+## All Decked Out <a name="murals"></a> ![](https://img.shields.io/badge/9%2F10-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
