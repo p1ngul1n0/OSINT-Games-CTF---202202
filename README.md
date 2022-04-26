@@ -190,5 +190,20 @@ Descubra o primeiro nome de hoeczek.
 > Hoek
 </details>
 
+## Country of Hoek      <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o país de origem de Hoek.
+
+#### Solução
+1. Acessando a home do site de hoeczek, é possível obter o perfil do Hack The Box, onde ele é identificado como da Polônia
+> Poland
+</details>  
+
 </details>
 
