@@ -68,3 +68,20 @@ Identificar o usuário que realizou upload da foto do desafio no Mapillary.
 </details>
 
 
+##  The Full Zongo Lane <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Identificar o nome completo da Zongo Lane.
+
+#### Solução
+  1. Ao buscar Zongo Lane no Mapillary é possível obter dois resultados.
+  2. Um dos resultados possui uma palavra a mais no nome, sendo:
+> Kadiri
+</details>
+
+
