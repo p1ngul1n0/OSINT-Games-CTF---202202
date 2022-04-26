@@ -414,5 +414,20 @@ Descubra o Instagram do irmão de Adorian.
 1. Comparando a data de inscrição de ambos canais de Adorian e Adrian, fica evidente que Adorian se cadastrou antes no Youtube:
 > Adorian
 </details>
+  
+##   #Banned <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o Twitter que os irmãos utilizavam e que agora é banido.
+
+#### Solução
+1. No Youtube dividido pelos dois irmãos, o Twitter é disponibilizado:
+> thedeckbrothers
+</details>
 
 </details>
