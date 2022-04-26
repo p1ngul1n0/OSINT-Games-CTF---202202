@@ -319,3 +319,24 @@ Descubra o nome real do artista.
   
 </details>
 
+## All Decked Out <a name="murals"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+## Deck The Halls <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o site do Influencer adoriandeck que redireciona para seu linktr.ee.
+
+#### Solução
+1. Buscando pelo nome do influencer no Google, é possível visualizar seu Instagram
+2. Na Bio de seu Instagram o site que redireciona para seu linktr.ee:
+> adoriandeck.com
+</details>
+
+</details>
