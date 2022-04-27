@@ -757,4 +757,38 @@ Qual site redireciona para slyandco.com e possui o prefixo "ca".
 > slyandco.ca
 </details>
   
+## Former Employees   <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o funcionário que trabalhou como "Production Designer" na filial Ookpik entre 2015 e 2019
+
+#### Solução
+1. Realizando uma busca pelo termo abaixo no LinkedIn:
+> Production Director Ookpik
+2. Descobrimos que o nome da funcionária é:
+> Chrissy Alexakis
+</details>
+
+##  Pink Lil <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual boutique da Nova Zelândia vende produtos da Sly & Co e fica entre uma floricultura e uma padaria
+
+#### Solução
+1. Realizando uma busca pelo termo abaixo no Google:
+> intext:Sly and Co florist bakery
+2. Descobrimos que o site da boutique é:
+> furtherdoings.co.nz
+</details>
+  
 </details>
