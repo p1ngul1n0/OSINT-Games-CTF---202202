@@ -1052,7 +1052,7 @@ Qual são os dois sobrenomes de Oskar.
   
 </details>
 
-## The Rabbit Hole <a name="rabbit"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
+## The Rabbit Hole <a name="rabbit"></a> ![](https://img.shields.io/badge/12%2F12-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
@@ -1117,6 +1117,129 @@ Encontre o canal de Youtube relacionado ao adesivo colado.
 1. Buscando pela imagem no Yandex com o denominador site:youtube.com é possível encontrar o canal:
 > psychomartv
 </details>
+
+##   Web "Presents" <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
   
+<summary>:bulb:</summary>
   
-  </details>
+#### Descrição
+Qual é o website associado ao psychomartv.
+
+#### Solução
+1. Acessando o Tiktok de psychomartv é possível identificar o site como:
+> psychomar.com
+</details>
+  
+## What's in a Name  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o nome e sobre nome de psychomartv.
+
+#### Solução
+1. Acessando o Facebook de psychomartv é possível identificar o seu nome e sobrenome pelo e-mail de contato disponibilizado:
+> Omar Mohidin
+</details>
+  
+##  Registration Crumbs <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o e-mail que Omar utilizou para registrar o domínio psychomar.com em 2016.
+
+#### Solução
+1. Utilizando um serviço de busca de histórico de WhoIS (https://tools.whoisxmlapi.com/whois-history-search) é possível identificar o e-mail:
+> o.mohidin@outlook.com
+</details>
+  
+##   Book It <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o e-mail que Omar utiliza para negócios.
+
+#### Solução
+1. Visualizando o canal do Youtube de Omar é possível identificar o e-mail:
+> Info@Psychomar.com
+</details>
+  
+## It's Me, I Promise <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o outro sobrenome de Omar que aparece no seu perfil do Periscope.
+
+#### Solução
+1. Apesar do Periscope ter sido descontinuado em 2021, ainda é possível visualizar os perfis dos usuários, como já conhecemos o @ de Omar, formulamos a URL:
+> https://www.pscp.tv/PsychomarTV
+2. Acessando a URL temos o perfil de Omar que exibe o sobrenome:
+> Ozi
+</details>
+  
+##  Let's Dance <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é a data que Omar postou seu primeiro vídeo no Youtube.
+
+#### Solução
+1. Acessando o canal do Youtube do Omar podemos ver que a data de postagem do seu primeiro vídeo é:
+> January 25, 2015
+</details>
+  
+## Razor Sharp <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é a rua que o estabelecimento da foto se encontra.
+
+#### Solução
+1. Buscando as palavras encontradas na foto no Google Maps:
+> Psycho Cu
+2. Encontramos a barbearia Psycho Cutz em Londres que fica na rua:
+> High
+</details>
+  
+##  Google It <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual são os últimos 4 digitos do ID da conta Google de Omar.
+
+#### Solução
+1. Buscando um dos e-mails descobertos anteriormente (o.mohidin@outlook.com) na ferramenta Ghunt, o ID é retornado:
+> 2704
+</details>
+  
+</details>
