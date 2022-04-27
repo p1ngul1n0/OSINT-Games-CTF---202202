@@ -14,6 +14,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 - [In the Business](#business)
 - [The Life](#life)
 - [Oskar Blues](#oskar)
+- [The Rabbit Hole](#rabbit)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
 <details>
@@ -76,7 +77,6 @@ Identificar o usuário que realizou upload da foto do desafio no Mapillary.
   3. Apartir desta foto é possível visualizar os detalhes e o usuário que a postou como:
 > mawutor
 </details>
-
 
 ##  The Full Zongo Lane <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
 ##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
@@ -1051,3 +1051,57 @@ Qual são os dois sobrenomes de Oskar.
 </details>
   
 </details>
+
+## The Rabbit Hole <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+##  Bye Bye Bye! <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+A imagem de um carro é disponibilizada e temos que descobrir a rua na qual ela se encontra.
+
+#### Solução
+1. Visualizando a imagem é possível identificar o nome de um estabelecimento:
+> Hans Crescent
+2. Fazendo uma busca pelo nome do edíficio no Google Maps, identificamos que este se encontra na rua Basil em Londres:
+> Basil
+</details>
+  
+
+## The ABCs  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual eram as duas letras em um adesivo que estavam coladas na caixa verde abaixo do nome do edíficio.
+
+#### Solução
+1. Visualizando registros anteriores do Google Street (setembro de 2017) é possível identificar as letras:
+> po
+</details>
+  
+## The Scofflaw  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Em que mês e ano um sedan da Mercedes foi fotografado na mesma vaga.
+
+#### Solução
+1. Visualizando registros anteriores do Google Street (maio de 2016) é possível um sedan branco estacionado no mesmo local
+</details>
+  
+  
+  </details>
