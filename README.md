@@ -15,6 +15,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 - [The Life](#life)
 - [Oskar Blues](#oskar)
 - [The Rabbit Hole](#rabbit)
+- [The Comission](#comission)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
 <details>
@@ -1242,4 +1243,24 @@ Qual são os últimos 4 digitos do ID da conta Google de Omar.
 > 2704
 </details>
   
+</details>
+
+## The Commission <a name="commission"></a> ![](https://img.shields.io/badge/7%2F7-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+## jointcommission Email  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o servidor de e-mail de jointcommission.org
+
+#### Solução
+1. Realizando uma busca pelo site mxtoolbox.com, é possível identificar que o servidor de e-mail é:
+> jointcommission-org.mail.protection.outlook.com
+</details>
 </details>
