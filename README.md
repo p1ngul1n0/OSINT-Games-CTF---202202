@@ -12,6 +12,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 - [All Decked Out](#decked)
 - [Guitar Riffs](#guitar)
 - [In the Business](#business)
+- [The Life](#life)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
 <details>
@@ -871,6 +872,65 @@ Qual é o nome de um famoso jogo de celular que está em um template identificad
 > https://slyandcogroup.com/wp-sitemap-posts-post-1.xml
 2. É possível identificar o nome do jogo como:
 > Farmville
+</details>
+  
+</details>
+
+## The Life <a name="life"></a> ![](https://img.shields.io/badge/3%2F3-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+##  4 Letter Words <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Identifique a conta do Instagram que postou uma foto marcando o usuário @udontshoot e com a legenda "Quick pizza 🍕 before take off 🛩📸".
+
+#### Solução
+1. Realizando uma simples busca no Google com o termo abaixo:
+> @udontshoot Quick pizza 🍕 before take off 🛩📸
+2. É possível identificar a conta como sendo:
+> rkoi
+  
+</details>
+  
+
+##   Carpool Lane <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Identifique a rua em que o vídeo disponibilizado foi filmado.
+
+#### Solução
+1. Visualizando o vídeo, é possível identificar o estabelecimento "Valley Country Market", buscando no Google Maps o endereço é:
+> Ventura
+  
+</details>
+  
+## Alternate Communications <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o código HEX do avião presente na foto postado por @rkoi em 22 de julho de 2021.
+
+#### Solução
+1. Visualizando a foto é possível identificar o código N do avião como:
+> N39AC
+2. Consultando este código no site registry.faa.gov, é possível identificar o código HEX como:
+> A48073
+  
 </details>
   
 </details>
