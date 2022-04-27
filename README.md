@@ -1103,5 +1103,20 @@ Em que mês e ano um sedan da Mercedes foi fotografado na mesma vaga.
 1. Visualizando registros anteriores do Google Street (maio de 2016) é possível um sedan branco estacionado no mesmo local
 </details>
   
+##  Looney Tunes <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Encontre o canal de Youtube relacionado ao adesivo colado.
+
+#### Solução
+1. Buscando pela imagem no Yandex com o denominador site:youtube.com é possível encontrar o canal:
+> psychomartv
+</details>
+  
   
   </details>
