@@ -678,7 +678,7 @@ Qual site John registrou utilizando seu e-mail pessoal
 
 </details>
 
-## In The Business <a name="business"></a> ![](https://img.shields.io/badge/10%2F10-COMPLETED-blue)
+## In The Business <a name="business"></a> ![](https://img.shields.io/badge/12%2F12-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
@@ -789,6 +789,88 @@ Qual boutique da Nova Zelândia vende produtos da Sly & Co e fica entre uma flor
 > intext:Sly and Co florist bakery
 2. Descobrimos que o site da boutique é:
 > furtherdoings.co.nz
+</details>
+  
+
+## Land Ho  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é a cidade de destino de uma entrega da Sly & Co de 6 de julho de 2020
+
+#### Solução
+1. Realizando uma busca pelo termo abaixo no Google:
+> "Sly Co" "shipment" after:2020-07-05 before:2014-07-07
+2. Descobrimos um site que lista as ordens, sendo possível identificar o endereço como:
+> Seattle, Washington
+</details>
+  
+##  HMS Titanic <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o nome do navio que fez a entrega do desafio anterior
+
+#### Solução
+1. Realizando uma busca pelo termo abaixo no Google:
+> "Sly Co" "shipment" after:2020-07-05 before:2014-07-07
+2. Descobrimos um site que lista as ordens, sendo possível identificar o navio como:
+> APL QINGDAO
+</details>
+  
+## Roger That <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o callsign do navio que fez a entrega do desafio anterior
+
+#### Solução
+1. Realizando uma busca pelo nome do navio no site itu.int, é possível identificar o callsign como:
+> 9HA5178
+</details>
+  
+## Roger That <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é registro de marca que Sly and Co realizou em 20 de junho de 2017
+
+#### Solução
+1. Realizando uma busca pela empresa Sly and Co no site trademarks.justia.com é possível identificar o número do registro como:
+> 1843714
+</details>
+  
+##  Hello World! <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o nome de um famoso jogo de celular que está em um template identificado no sitemap de um dos sites da Sly & Co
+
+#### Solução
+1. Acessando a URL abaixo do sitemap de slyandcogroup.com:
+> https://slyandcogroup.com/wp-sitemap-posts-post-1.xml
+2. É possível identificar o nome do jogo como:
+> Farmville
 </details>
   
 </details>
