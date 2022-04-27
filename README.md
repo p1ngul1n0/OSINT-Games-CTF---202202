@@ -13,6 +13,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 - [Guitar Riffs](#guitar)
 - [In the Business](#business)
 - [The Life](#life)
+- [Oskar Blues](#oskar)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
 <details>
@@ -931,6 +932,122 @@ Descubra o código HEX do avião presente na foto postado por @rkoi em 22 de jul
 2. Consultando este código no site registry.faa.gov, é possível identificar o código HEX como:
 > A48073
   
+</details>
+  
+</details>
+
+
+## Oskar Blues <a name="dead"></a> ![](https://img.shields.io/badge/7%2F7-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+## Insta Famous <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o usuário do Instagram de Oskar J.C.
+
+#### Solução
+1. Realizando uma simples busca no Google pelo nome de Oskar seguido por Instagram, o usuário é descoberto:
+> blckmny
+</details>
+
+## AMOSC <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o usuário do Snapshat de Oskar J.C.
+
+#### Solução
+1. Acessando o canal de Youtube de Oskar é possível obter seu snapchat:
+> blckmnyofficial
+</details>
+  
+## Book Me <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o e-mail de negócios de Oskar.
+
+#### Solução
+1. Acessando o canal de Youtube de Oskar é possível obter seu e-mail de negócios:
+> blckmnyvlogs@gmail.com
+</details>
+  
+## Too Fast <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Descubra o carro que Oskar dirige.
+
+#### Solução
+1. Acessando o seu Instagram fica evidente que o carro que Oskar dirige é:
+> Audi R8
+</details>
+  
+## Sweet Ride <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual a marca de carro que está na foto de Oskar no Google.
+
+#### Solução
+1. Utilizando o e-mail de negócios de Oskar descoberto anteriormente, é possível identificar que a marca do carro é:
+> BMW
+</details>
+  
+## Formal Papers <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual a data de primeiro registro da BMW azul que Oskar possuía.
+
+#### Solução
+1. Visualizando fotos mais antigas do Instagram de Oskar, é possível visualizar a placa original da BMW:
+> BT38517
+2. Utilizando um serviço da Noruega (vegvesen.no) é possível identificar que a data de registro é:
+> January 1, 2012
+</details>
+  
+##  Name Game  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual são os dois sobrenomes de Oskar.
+
+#### Solução
+1. A URL do Youtube de Oskar possui o nome:
+> Oskar Czop
+2. Fazendo uma busca por este nome no Google, resulta em um vídeo de uma notícia, na qual a descrição do vídeo expõe o sobrenome dele como:
+> Jaroslaw Czop
 </details>
   
 </details>
