@@ -1263,4 +1263,153 @@ Qual é o servidor de e-mail de jointcommission.org
 1. Realizando uma busca pelo site mxtoolbox.com, é possível identificar que o servidor de e-mail é:
 > jointcommission-org.mail.protection.outlook.com
 </details>
+  
+## Cohosted Domain <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o site dentre as alternativas que divide o mesmo IP que jointcommission.org.
+
+#### Solução
+1. Realizando uma busca no site host.io por jointcommission.org é possível identificar que o site é:
+> jcaho.org
+</details>
+  
+##  Historic WHOIS Email <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o e-mail que esta no histórico de registros do WHOIS.
+
+#### Solução
+1. Realizando uma busca pelo domínio no serviço (tools.whoisxmlapi.com/whois-history-search) é possível identificar que o e-mail é:
+> kstehlik@jointcommission.org
+</details>
+  
+## Email Pivot to Websites <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual rede social das alternativas o e-mail kstehlik@jointcommission.org está conectado.
+
+#### Solução
+1. Realizando uma busca pelo e-mail no serviço (epieos.com) é possível identificar que o e-mail está conectado ao:
+> Github
+</details>
+  
+## jointcommission Email2 <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é a empresa que administra os servidores de e-mail de jointcommission.org.
+
+#### Solução
+1. Realizando uma busca no site host.io por jointcommission.org é possível identificar que a empresa é a abaixo, visto que possui "outlook":
+> Microsoft
+</details>
+  
+## s4bweb IP <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o IP que o domínio s4bweb-dr.jointcommission.org resolve.
+
+#### Solução
+1. Realizando uma busca no site who.is por s4bweb-dr.jointcommission.org é possível identificar que o IP é:
+> 198.143.155.155
+</details>
+  
+##  Username to Websites <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Em qual dos sites das alternativas possui uma conta com o usuário de kstehlik.
+
+#### Solução
+1. Realizando uma busca no site whatsmyname.app por kstehlik é possível que a rede social é:
+> GitHub.com
+</details>
+  
+## GitHub Profile  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Em que dia o usuário kstehlik publicou no Github que estava na Cisco.
+
+#### Solução
+1. Acessando o perfil do usuário é possível visualizar que esta publicação foi feita em:
+> April 15, 2015
+</details>
+  
+## Reddit Account Creation <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Em que dia o usuário kstehlik criou sua conta no Reddit.
+
+#### Solução
+1. Acessando o perfil do usuário é possível visualizar que ele se cadastrou em:
+> March 27, 2019
+</details>
+  
+## WHOIS Email Pivoting <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o outro domínio que o e-mail kstehlik@jointcommission.org registrou dentre as alternativas.
+
+#### Solução
+1. Realizando uma busca pelo domínio no serviço (tools.whoisxmlapi.com/whois-history-search) é possível identificar que o domínio é:
+> jcahosucks.org
+</details>
+  
+## Username to Person Name  <a name="Blue-Truck-Image-Location">:x:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+O usuário kstehlik tem uma conta na Venmo que expõe seu nome e sobrenome, qual são eles
+
+#### Solução
+
+</details>
 </details>
