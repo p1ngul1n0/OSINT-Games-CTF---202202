@@ -1414,7 +1414,7 @@ O usuário kstehlik tem uma conta na Venmo que expõe seu nome e sobrenome, qual
 </details>
 </details>
 
-## The Narrow Road <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
+## The Narrow Road <a name="zongo"></a> ![](https://img.shields.io/badge/4%2F4-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
@@ -1446,6 +1446,36 @@ Qual é a data de criação da foto.
 #### Solução
 1. Utilizando o ExifTool é possível ver que a data de criação da foto é:
 > 10-22-2008
+</details>
+  
+## GPS Position of Image  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é a latitude e longitude da foto.
+
+#### Solução
+1. Utilizando o site exif.regex.info/exif.cgi é possível visualizar que a latitude e longitude da foto é:
+> 43.4672,11.8792
+</details>
+  
+## Lat/Lon to Town Name  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é a cidade próxima da latitude e longitude da foto.
+
+#### Solução
+1. Utilizando o Google Maps é possível visualizar que a cidade próxima da latitude e longitude da foto é:
+> Arezzo
 </details>
 
 </details>
