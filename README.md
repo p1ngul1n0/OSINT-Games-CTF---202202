@@ -1413,3 +1413,39 @@ O usuário kstehlik tem uma conta na Venmo que expõe seu nome e sobrenome, qual
 
 </details>
 </details>
+
+## The Narrow Road <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+## Camera Model Name <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o modelo da câmera que tirou a foto em anexo.
+
+#### Solução
+1. Utilizando o ExifTool é possível ver que o modelo da câmera é:
+> COOLPIX P6000
+</details>
+  
+## Date Image Taken <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é a data de criação da foto.
+
+#### Solução
+1. Utilizando o ExifTool é possível ver que a data de criação da foto é:
+> 10-22-2008
+</details>
+
+</details>
