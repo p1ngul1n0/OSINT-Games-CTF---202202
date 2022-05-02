@@ -16,6 +16,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 - [Oskar Blues](#oskar)
 - [The Rabbit Hole](#rabbit)
 - [The Comission](#comission)
+- [Maja](#maja)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
 <details>
@@ -1476,6 +1477,154 @@ Qual é a cidade próxima da latitude e longitude da foto.
 #### Solução
 1. Utilizando o Google Maps é possível visualizar que a cidade próxima da latitude e longitude da foto é:
 > Arezzo
+</details>
+
+</details>
+
+## Maja <a name="maja"></a> ![](https://img.shields.io/badge/9%2F9-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+## Call me <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o telefone presente em um dos sites de Maja
+
+#### Solução
+1. Acessando o perfil de Maja, é possível visualizar na BIO o perfil @weyhe.official que possui o site weyhe.website
+2. Que possui o número de contato:
+> 49017630650451
+</details>
+  
+## The Old Me <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual website que redireciona para majaweyhe.com
+
+#### Solução
+1. Consultando o site majaweyhe.com no serviço host.io, é possível visualizar que o website que redireciona é:
+2. majawyh.com
+</details>
+
+## Make It Official <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Em que ano a empresa Weyhe GmbH foi registrada
+
+#### Solução
+1. Consultando a empresa no dnb.com, é possível visualizar que ela foi registrada em:
+2. 2019
+</details>
+  
+## Reader's Choice <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Em qual revista Weyhe ganhou o prêmio Best German Style Blog em 2015
+
+#### Solução
+1. Realizando uma busca no Google pelo termo:
+> "Best German Style Blog" 2015 Weyhe
+2. É possível identificar que a revista foi:
+> Jolie
+</details>
+  
+## That's a Throwback <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual e-mail Maja utilizava anteriormente
+
+#### Solução
+1. Verificando o antigo site majawyh.com no WayBack Machine é possível verificar que em 2013 o e-mail utilizado era:
+> majawyh@gmx.de
+</details>
+
+## World Traveler <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Em qual cidade Maja morava em 2013
+
+#### Solução
+1. Verificando o antigo site majawyh.com no WayBack Machine é possível verificar que em 2013 Maja morava em:
+> Vienna
+</details>
+  
+## I Thought You Said Lunch <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual lançamento de livro Maja foi fotografa em 25 de novembro de 2014
+
+#### Solução
+1. Buscando pelo termo no Getty Images:
+> maja wyh book
+2. É possível identificar o livro como:
+> Tory Burch
+</details>
+
+## Check Out The Hook <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual era o DJ no lançamento de livro que Maja foi fotografa em 25 de novembro de 2014
+
+#### Solução
+1. Buscando pelo termo no Getty Images:
+> 'Tory Burch: In Color' Book Launch In Munich DJ
+2. É possível identificar o DJ como:
+> Nikias Hofmann
+</details>
+  
+## Uncle Sam in Dusseldorf <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o identificador de TAX de Weyhe
+
+#### Solução
+1. Acessando o site de Weyhe é possível identificar o TAX como:
+> DE325872931
 </details>
 
 </details>
