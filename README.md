@@ -1248,7 +1248,7 @@ Qual são os últimos 4 digitos do ID da conta Google de Omar.
   
 </details>
 
-## The Commission <a name="comission"></a> ![](https://img.shields.io/badge/7%2F7-COMPLETED-blue)
+## The Commission <a name="comission"></a> ![](https://img.shields.io/badge/11%2F11-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
@@ -1402,7 +1402,7 @@ Qual é o outro domínio que o e-mail kstehlik@jointcommission.org registrou den
 > jcahosucks.org
 </details>
   
-## Username to Person Name  <a name="Blue-Truck-Image-Location">:x:</a>
+## Username to Person Name  <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
 ##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
 
 <details>
@@ -1410,10 +1410,13 @@ Qual é o outro domínio que o e-mail kstehlik@jointcommission.org registrou den
 <summary>:bulb:</summary>
   
 #### Descrição
-O usuário kstehlik tem uma conta na Venmo que expõe seu nome e sobrenome, qual são eles
+O usuário kstehlik tem uma conta na Venmo que expõe seu nome e sobrenome, quais são eles
 
 #### Solução
-
+1. Como estamos localizados no Brasil, é necessário o uso de uma VPN para que possamos acessar a Venmo, pois ela é restrita aos EUA
+2. Com uma VPN com localização dos EUA, o site de mapeamento de contas "WhatsmynameWeb" é utilizado buscando pelo usuário 'kstehlik', que resulta em positivo para uma conta Venmo
+3. Acessando o link https://account.venmo.com/u/kstehlik é possível idetentificar o nome do usuário como:
+> Kaitlyn Stehlik
 </details>
 </details>
 
