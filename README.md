@@ -16,6 +16,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 - [Oskar Blues](#oskar)
 - [The Rabbit Hole](#rabbit)
 - [The Comission](#comission)
+- [The Narrow Road](#narrow)
 - [Maja](#maja)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
@@ -939,7 +940,7 @@ Descubra o código HEX do avião presente na foto postado por @rkoi em 22 de jul
 </details>
 
 
-## Oskar Blues <a name="dead"></a> ![](https://img.shields.io/badge/7%2F7-COMPLETED-blue)
+## Oskar Blues <a name="oskar"></a> ![](https://img.shields.io/badge/7%2F7-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
@@ -1246,7 +1247,7 @@ Qual são os últimos 4 digitos do ID da conta Google de Omar.
   
 </details>
 
-## The Commission <a name="commission"></a> ![](https://img.shields.io/badge/7%2F7-COMPLETED-blue)
+## The Commission <a name="comission"></a> ![](https://img.shields.io/badge/7%2F7-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
@@ -1415,7 +1416,7 @@ O usuário kstehlik tem uma conta na Venmo que expõe seu nome e sobrenome, qual
 </details>
 </details>
 
-## The Narrow Road <a name="zongo"></a> ![](https://img.shields.io/badge/4%2F4-COMPLETED-blue)
+## The Narrow Road <a name="narrow"></a> ![](https://img.shields.io/badge/4%2F4-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
@@ -1627,4 +1628,32 @@ Qual é o identificador de TAX de Weyhe
 > DE325872931
 </details>
 
+</details>
+
+## The Sphinx <a name="sphinx"></a> ![](https://img.shields.io/badge/9%2F9-COMPLETED-blue)
+<details>
+  <summary>Visualizar desafios</summary>
+
+## Lifted <a name="Blue-Truck-Image-Location">:heavy_check_mark:</a>
+##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue)](#sumário)
+
+<details>
+  
+<summary>:bulb:</summary>
+  
+#### Descrição
+Qual é o site original da imagem
+
+#### Solução
+1. Por mais qu e a imagem esteja em baixa qualidade é possível identificar algumas palavras como:
+> Award of Excellence
+> The International Cat Association
+> MEADOW
+> SPHYNX
+> 2018
+> TCA
+2. Realizando uma busca no DuckDuckGo com o os termos abaixo:
+> TCA "award of excellence" "sphynx" "meadow" "2018" inurl:.ru
+3. É possível identificar o site como:
+> meadowsphynx.co.uk
 </details>
