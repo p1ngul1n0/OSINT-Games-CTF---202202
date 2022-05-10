@@ -1631,7 +1631,7 @@ Qual é o identificador de TAX de Weyhe
 
 </details>
 
-## The Sphinx <a name="sphynx"></a> ![](https://img.shields.io/badge/9%2F9-COMPLETED-blue)
+## The Sphinx <a name="sphynx"></a> ![](https://img.shields.io/badge/1%2F1-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
@@ -1657,4 +1657,5 @@ Qual é o site original da imagem
 > TCA "award of excellence" "sphynx" "meadow" "2018" inurl:.ru
 3. É possível identificar o site como:
 > meadowsphynx.co.uk
+</details>
 </details>
