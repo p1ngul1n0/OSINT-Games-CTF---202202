@@ -18,6 +18,7 @@ Descrição e solução dos desafios do OSINT Games CTF 202202.
 - [The Comission](#comission)
 - [The Narrow Road](#narrow)
 - [Maja](#maja)
+- [The Sphynx](#sphynx)
 
 ## Zongo <a name="zongo"></a> ![](https://img.shields.io/badge/5%2F5-COMPLETED-blue)
 <details>
@@ -1630,7 +1631,7 @@ Qual é o identificador de TAX de Weyhe
 
 </details>
 
-## The Sphinx <a name="sphinx"></a> ![](https://img.shields.io/badge/9%2F9-COMPLETED-blue)
+## The Sphinx <a name="sphynx"></a> ![](https://img.shields.io/badge/9%2F9-COMPLETED-blue)
 <details>
   <summary>Visualizar desafios</summary>
 
